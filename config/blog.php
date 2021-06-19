@@ -8,7 +8,7 @@ return [
     | ！！！不建议修改该配置文件，推荐前往 后台->配置 添加key-value即可，方便管理
     |
     */
-    'title' => 'DIFF Blog',
+    'title' => '梁毅的博客',
     'blog_name' => 'DIFF Blog',
     'description' => '基于PHP框架Laravel7开发的Markdown个人独立博客,Powered by DIFF Blog,Author: Github@DIFF',
     'keywords' => 'DIFF-Blog,Laravel-Blog,Markdown,PHP,个人独立博客,DIFF',

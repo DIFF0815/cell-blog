@@ -11,7 +11,7 @@ return [
     | login page.
     |
     */
-    'name' => 'Diff Blog',
+    'name' => 'DIFF Blog',
 
     /*
     |--------------------------------------------------------------------------
@@ -22,7 +22,7 @@ return [
     | `img` tag, eg '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo' => '<b>Diff</b> Blog',
+    'logo' => '<b>DIFF</b> Blog',
 
     /*
     |--------------------------------------------------------------------------
@@ -85,7 +85,7 @@ return [
     | Html title for all pages.
     |
     */
-    'title' => 'Cell-Blog Admin',
+    'title' => '梁毅的博客 Admin',
 
     /*
     |--------------------------------------------------------------------------
