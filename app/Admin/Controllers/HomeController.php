@@ -13,7 +13,7 @@ class HomeController extends Controller
     public function index(Content $content)
     {
         return $content
-            ->title('Cell Blog')
+            ->title('DIFF Blog')
             ->description('基于PHP框架Laravel7开发的Markdown个人独立博客')
             ->row(DashboardController::index())
             ->row(function (Row $row) {

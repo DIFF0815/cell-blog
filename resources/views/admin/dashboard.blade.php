@@ -25,11 +25,11 @@
     }
 </style>
 
-<div class="title" title="Cell Blog 前台" data-toggle="tooltip" data-placement="top">
-    <a href="/" target="_blank">Cell Blog</a>
+<div class="title" title="DIFF Blog 前台" data-toggle="tooltip" data-placement="top">
+    <a href="/" target="_blank">DIFF Blog</a>
 </div>
 <div class="links">
-    <a href="https://github.com/Lruihao/cell-blog" title="https://github.com/Lruihao/cell-blog" data-toggle="tooltip"
+    <a href="https://github.com/DIFF0815/cell-blog" title="https://github.com/DIFF0815/cell-blog" data-toggle="tooltip"
        data-placement="top" target="_blank">Github</a>
-    <a href="http://lruihao.cn" title="http://lruihao.cn" data-toggle="tooltip" data-placement="top" target="_blank">Author@Lruihao</a>
+    <a href="http://diffbee.cn" title="http://diffbee.cn" data-toggle="tooltip" data-placement="top" target="_blank">Author@DIFF</a>
 </div>

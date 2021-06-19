@@ -20,11 +20,11 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <strong>Powered by <a href="https://lruihao.cn" target="_blank">Cell Blog</a></strong>
-                <a href="https://github.com/Lruihao/cell-blog" target="_blank"
+                <strong>Powered by <a href="https://diffbee.cn" target="_blank">DIFF Blog</a></strong>
+                <a href="https://github.com/DIFF/cell-blog" target="_blank"
                    rel="external nofollow noopener noreferrer" aria-label="Star on GitHub">
                 </a>
-                <iframe class="github-star" frameborder="0" scrolling="0" src="https://ghbtns.com/github-btn.html?user=Lruihao&amp;repo=cell-blog&amp;type=star&amp;count=true">
+                <iframe class="github-star" frameborder="0" scrolling="0" src="https://ghbtns.com/github-btn.html?user=DIFF0815&amp;repo=cell-blog&amp;type=star&amp;count=true">
                 </iframe>
             </div>
         </div>

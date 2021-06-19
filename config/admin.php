@@ -11,7 +11,7 @@ return [
     | login page.
     |
     */
-    'name' => 'Cell Blog',
+    'name' => 'Diff Blog',
 
     /*
     |--------------------------------------------------------------------------
@@ -22,7 +22,7 @@ return [
     | `img` tag, eg '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo' => '<b>Cell</b> Blog',
+    'logo' => '<b>Diff</b> Blog',
 
     /*
     |--------------------------------------------------------------------------
@@ -34,7 +34,7 @@ return [
     | '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo-mini' => '<b>CB</b>',
+    'logo-mini' => '<b>DB</b>',
 
     /*
     |--------------------------------------------------------------------------

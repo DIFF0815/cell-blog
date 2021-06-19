@@ -8,13 +8,13 @@ return [
     | ！！！不建议修改该配置文件，推荐前往 后台->配置 添加key-value即可，方便管理
     |
     */
-    'title' => 'Cell Blog',
-    'blog_name' => 'Cell Blog',
-    'description' => '基于PHP框架Laravel7开发的Markdown个人独立博客,Powered by Cell Blog,Author: Github@Lruihao',
-    'keywords' => 'Cell-Blog,Laravel-Blog,Markdown,PHP,个人独立博客,Lruihao,李瑞豪',
-    'welcome_words' => '欢迎使用 Cell Blog 个人独立博客！',
-    'github_url' => 'https://github.com/Lruihao',
-    'weibo_url' => 'https://weibo.com/liahao',
+    'title' => 'DIFF Blog',
+    'blog_name' => 'DIFF Blog',
+    'description' => '基于PHP框架Laravel7开发的Markdown个人独立博客,Powered by DIFF Blog,Author: Github@DIFF',
+    'keywords' => 'DIFF-Blog,Laravel-Blog,Markdown,PHP,个人独立博客,DIFF',
+    'welcome_words' => '欢迎来到 DIFF Blog 个人独立博客！',
+    'github_url' => 'https://github.com/DIFF0815',
+    'weibo_url' => 'https://weibo.com/DIFF0815',
 
     /*
     |--------------------------------------------------------------------------
@@ -39,10 +39,10 @@ return [
     | Footer config
     |--------------------------------------------------------------------------
     */
-    'copyright_holder' => 'Lruihao',/*------ 版权所有 eg. Lruihao ------*/
-    'icp_info' => '',/*------ ICP备案号 eg. 湘 ICP 备 xxxxxxxx 号 ------*/
+    'copyright_holder' => 'DIFF0815',/*------ 版权所有 eg. Lruihao ------*/
+    'icp_info' => '',/*------ ICP备案号 eg. 粤 ICP 备 xxxxxxxx 号 ------*/
     'busuanzi_count' => true,/*------ 不蒜子计数 ------*/
-    'run_time' => '2018/05/28 20:01:01',/*------ 建站时间 eg. 2018/05/28 20:01:01 ------*/
+    'run_time' => '2018/09/28 22:01:01',/*------ 建站时间 eg. 2018/09/28 22:01:01 ------*/
 
     /*
     |--------------------------------------------------------------------------

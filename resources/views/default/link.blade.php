@@ -7,6 +7,10 @@
         <h3 class="card-title">
             <i class="fas fa-users text-dark"></i>
             友情链接
+            <span style="font-size:14px;">   特别鸣谢：
+                <a href="https://github.com/Lruihao/cell-blog" target="_blank" >李瑞豪</a>
+                <a href="https://Lruihao.cn" target="_blank" >李瑞豪博客</a>
+            </span>
         </h3>
     </div>
     <div class="card-body">
