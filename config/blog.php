@@ -9,7 +9,7 @@ return [
     |
     */
     'title' => '梁毅的博客',
-    'blog_name' => 'DIFF Blog',
+    'blog_name' => 'DIFF-BLOG',
     'description' => '基于PHP框架Laravel7开发的Markdown个人独立博客,Powered by DIFF Blog,Author: Github@DIFF',
     'keywords' => 'DIFF-Blog,Laravel-Blog,Markdown,PHP,个人独立博客,DIFF',
     'welcome_words' => '欢迎来到 DIFF Blog 个人独立博客！',

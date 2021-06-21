@@ -18,11 +18,11 @@
 </nav>
 
 <div class="container main shadow-sm p-1 p-sm-3 rounded">
-    <div class="jumbotron shadow text-center mb-0">
+    {{--<div class="jumbotron shadow text-center mb-0">
         <div class="container animated fast bounceInDown">
             @yield('header-text')
         </div>
-    </div>
+    </div>--}}
     <div class='row mx-0 mt-1 mt-sm-3'>
         <div class='col-md-8 px-0 my-1'>
             <div class="content mr-sm-2 p-1 py-4 rounded animated fast fadeIn">

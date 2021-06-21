@@ -3,12 +3,12 @@
     $author = isset($user->id) ? $user : $userPresenter->getUserInfo();
 @endphp
 <div class="card author">
-    <div class="card-header">
+    {{--<div class="card-header">
         <h3 class="card-title">
             <i class="fas fa-address-card text-primary"></i>
             {{ $author->name }}
         </h3>
-    </div>
+    </div>--}}
     <div class="card-body text-center">
         @if($author->avatar)
             <img src="{{ '/storage/system/'.$author->avatar }}" class="author-avatar mx-auto d-block rounded-circle" alt="author avatar">
@@ -35,4 +35,5 @@
             </span>
         @endif
     </div>
+    {{--@include('default.navigationlist')--}}
 </div>
