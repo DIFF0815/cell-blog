@@ -11,7 +11,7 @@
                 </span>
                 @if(config('icp_info', config('blog.icp_info')))
                     <span class="icp-info">
-                        <a href="http://www.beian.miit.gov.cn" target="_blank" rel="external nofollow noopener noreferrer">
+                        <a href="https://beian.miit.gov.cn" target="_blank" rel="external nofollow noopener noreferrer">
                         {{ config('icp_info', config('blog.icp_info')) }}
                         </a>
                     </span>
